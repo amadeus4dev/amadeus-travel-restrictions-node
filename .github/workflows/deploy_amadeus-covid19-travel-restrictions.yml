@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'amadeus-covid19-travel-restrictions'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_48c5a54778df4fe3af3ba8e85539cdfe }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1d2b9aec5ff446998aef7d387eb7150c }}
         package: .
